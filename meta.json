@@ -1,0 +1,16 @@
+{
+"title": "data.nasa.gov", 
+"visibility": "public", 
+"type": "GIT", 
+"description": "This is the source code for the WordPress theme that powers data.nasa.gov.", 
+"url": "https://github.com/nasa/data.nasa.gov",
+"repo": "nasa/data.nasa.gov",
+"missions":["OCIO", "HQ", "Open Innovation"], 
+"categories": ["Citizen Science", "NASA", "Open Data"], 
+"languages": ["Javascript", "HTML", "CSS", "Wordpress", "PHP"],
+"operating_systems": ["Linux", "Windows", "Unix", "Mac"],  
+"poc": "Jason Duley", 
+"poc_mbox": "jason.j.duley@nasa.gov", 
+"license": "NASA Open Source Agreement Version 1.3", 
+"software_types": ["website"]
+}
