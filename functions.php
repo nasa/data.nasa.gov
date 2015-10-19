@@ -1,5 +1,9 @@
 <?php
 
+if ( ! defined( 'ABSPATH' ) ) {		
+	exit; // Exit if accessed directly.		
+}
+
 locate_template(array('inc/roots-activation.php'), true, true);	// activation
 locate_template(array('inc/roots-admin.php'), true, true);		// admin additions/mods
 locate_template(array('inc/roots-options.php'), true, true);	// theme options menu
