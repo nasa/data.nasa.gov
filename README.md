@@ -1,5 +1,7 @@
 DATA.NASA.GOV
 =================
+THIS IS OUT OF DATE AND NO LONGER USED
+=================
 
 This is the source code for the WordPress theme that powers data.nasa.gov.
 
