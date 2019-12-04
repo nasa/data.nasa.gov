@@ -1,10 +1,11 @@
 DATA.NASA.GOV
 =================
-THIS IS OUT OF DATE AND NO LONGER USED
+THIS IS OUT OF DATE AND NO LONGER USED: PLEASE GO TO https://github.com/nasa/data-nasa-gov-frontpage
 =================
 
-This is the source code for the WordPress theme that powers data.nasa.gov.
 
+### OLD TEXT THAT IS NO LONGER ACCURATE
+This is the source code for the WordPress theme that powers data.nasa.gov.
 
 We'll be the first to admit it's buggy, old, and not up to modern standards. A long term plan is to move data, code, and open .nasa.gov all to mobile-friendly responsive themes.
 
